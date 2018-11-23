@@ -394,7 +394,10 @@ html {
 }
 
 /* ICONS */
-
+.down-icon {
+  margin: auto;
+  size: 9;
+}
 .icons {
   margin: auto;
   padding: 20px 10px;
